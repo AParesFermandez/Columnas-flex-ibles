@@ -3,7 +3,7 @@
     justify-content: space-between; /*asi lo distribuyo uniformemente como dice el caso uno */
     padding: 20px; /*el margen interno */
     margin: 10px; /*el margen externo */
-    background-color: lightcyan; /*el colorcito */
+    background-color: rgb(73, 211, 211); /*el colorcito */
     text-align: left; /*alinear el texto a la izquierda */
     box-sizing: border-box; /*el relleno y el margen es parte del tamaño */
 
